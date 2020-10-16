@@ -1,0 +1,10 @@
+int suma;
+sout("Ingresar numero 1");
+int num1=text.nextInt();
+
+sout("Ingresar numer 2");
+int num2=text.nextInt();
+
+suma=num1+num2;
+
+sout("Resultado :" +suma);
